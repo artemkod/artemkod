@@ -12,13 +12,6 @@
 
 <p align='center'>
   
-  <a href="https://www.vk.com/metrex/">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/metrex">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
 </p>
 
 <p align='center'>
